@@ -1,4 +1,4 @@
 name:realme
 version:12.0
-ram:4gb
+ram:10gb
 version:13.0
